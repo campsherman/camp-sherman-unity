@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2783cc5d3cca90c4aa148a279e9a1c5e
+timeCreated: 1491915637
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: awning
+    100002: awning.001
+    100004: awning.002
+    100006: awning.003
+    100008: awning.004
+    100010: awning.005
+    100012: awning.006
+    100014: awning.007
+    100016: awning.008
+    100018: awning.009
+    100020: awning.010
+    100022: awning.011
+    100024: awning.012
+    100026: awning.013
+    100028: awning.014
+    100030: awning.015
+    100032: awning.016
+    100034: awning.017
+    100036: awning.018
+    100038: awning.019
+    100040: //RootNode
+    100042: main
+    100044: sidehouse
+    400000: awning
+    400002: awning.001
+    400004: awning.002
+    400006: awning.003
+    400008: awning.004
+    400010: awning.005
+    400012: awning.006
+    400014: awning.007
+    400016: awning.008
+    400018: awning.009
+    400020: awning.010
+    400022: awning.011
+    400024: awning.012
+    400026: awning.013
+    400028: awning.014
+    400030: awning.015
+    400032: awning.016
+    400034: awning.017
+    400036: awning.018
+    400038: awning.019
+    400040: //RootNode
+    400042: main
+    400044: sidehouse
+    2300000: awning
+    2300002: awning.001
+    2300004: awning.002
+    2300006: awning.003
+    2300008: awning.004
+    2300010: awning.005
+    2300012: awning.006
+    2300014: awning.007
+    2300016: awning.008
+    2300018: awning.009
+    2300020: awning.010
+    2300022: awning.011
+    2300024: awning.012
+    2300026: awning.013
+    2300028: awning.014
+    2300030: awning.015
+    2300032: awning.016
+    2300034: awning.017
+    2300036: awning.018
+    2300038: awning.019
+    2300040: main
+    2300042: sidehouse
+    3300000: awning
+    3300002: awning.001
+    3300004: awning.002
+    3300006: awning.003
+    3300008: awning.004
+    3300010: awning.005
+    3300012: awning.006
+    3300014: awning.007
+    3300016: awning.008
+    3300018: awning.009
+    3300020: awning.010
+    3300022: awning.011
+    3300024: awning.012
+    3300026: awning.013
+    3300028: awning.014
+    3300030: awning.015
+    3300032: awning.016
+    3300034: awning.017
+    3300036: awning.018
+    3300038: awning.019
+    3300040: main
+    3300042: sidehouse
+    4300000: sidehouse
+    4300002: main
+    4300004: awning
+    4300006: awning.001
+    4300008: awning.002
+    4300010: awning.003
+    4300012: awning.004
+    4300014: awning.005
+    4300016: awning.006
+    4300018: awning.007
+    4300020: awning.008
+    4300022: awning.009
+    4300024: awning.010
+    4300026: awning.011
+    4300028: awning.012
+    4300030: awning.013
+    4300032: awning.014
+    4300034: awning.015
+    4300036: awning.016
+    4300038: awning.017
+    4300040: awning.018
+    4300042: awning.019
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
