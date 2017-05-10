@@ -190,6 +190,17 @@
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
+     <Compile Include="Assets\Menus\Scripts\ActiveStateToggler.cs" />
+     <Compile Include="Assets\Menus\Scripts\ApplicationManager.cs" />
+     <Compile Include="Assets\Menus\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\Menus\Scripts\DragMe.cs" />
+     <Compile Include="Assets\Menus\Scripts\DragPanel.cs" />
+     <Compile Include="Assets\Menus\Scripts\DropMe.cs" />
+     <Compile Include="Assets\Menus\Scripts\PanelManager.cs" />
+     <Compile Include="Assets\Menus\Scripts\ResizePanel.cs" />
+     <Compile Include="Assets\Menus\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\Menus\Scripts\ShowSliderValue.cs" />
+     <Compile Include="Assets\Menus\Scripts\TiltWindow.cs" />
      <None Include="Assets\Addons\Standard Assets Second Import\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
@@ -218,6 +229,7 @@
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Addons\Standard Assets Second Import\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Menus\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Addons\Standard Assets Second Import\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Addons\Standard Assets Second Import\Effects\ImageEffects\Shaders\frag_ao.cginc" />
      <None Include="Assets\Addons\Standard Assets Second Import\Vehicles\Aircraft\AircraftGuidelines.txt" />
@@ -226,6 +238,7 @@
      <None Include="Assets\Addons\Standard Assets Second Import\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Addons\Standard Assets Second Import\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
+     <None Include="Assets\Menus\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Addons\Standard Assets Second Import\ParticleSystems\ParticleSystemsGuidelines.txt" />
@@ -245,6 +258,7 @@
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
+     <None Include="Assets\Menus\Materials\UI-Default-No-Alpha.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
      <None Include="Assets\Addons\Standard Assets Second Import\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
