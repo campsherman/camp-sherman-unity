@@ -190,6 +190,7 @@
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
+     <Compile Include="Assets\Audio Scripts\Intro.cs" />
      <Compile Include="Assets\Menus\Scripts\ActiveStateToggler.cs" />
      <Compile Include="Assets\Menus\Scripts\ApplicationManager.cs" />
      <Compile Include="Assets\Menus\Scripts\ChangeColor.cs" />
@@ -201,6 +202,7 @@
      <Compile Include="Assets\Menus\Scripts\ScrollDetailTexture.cs" />
      <Compile Include="Assets\Menus\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Menus\Scripts\TiltWindow.cs" />
+     <Compile Include="Assets\play_sound_on_trigger.cs" />
      <None Include="Assets\Addons\Standard Assets Second Import\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Addons\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
