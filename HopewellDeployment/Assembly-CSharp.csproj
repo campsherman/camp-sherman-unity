@@ -190,7 +190,8 @@
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\Addons\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
-     <Compile Include="Assets\Audio Scripts\Intro.cs" />
+     <Compile Include="Assets\Audio Scripts\AudioTrigger1.cs" />
+     <Compile Include="Assets\AudioTrigger.cs" />
      <Compile Include="Assets\Menus\Scripts\ActiveStateToggler.cs" />
      <Compile Include="Assets\Menus\Scripts\ApplicationManager.cs" />
      <Compile Include="Assets\Menus\Scripts\ChangeColor.cs" />
