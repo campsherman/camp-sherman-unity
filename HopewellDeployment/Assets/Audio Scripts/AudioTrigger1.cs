@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Intro : MonoBehaviour {
 
+	public GameObject cube;
 	private AudioSource source;
 
 	// Use this for initialization
